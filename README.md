@@ -18,3 +18,6 @@ A classic Snake game implemented using C++20, Qt 6, and QML.
 - Qt 6
 - Qt Quick / QML
 - CMake
+
+## Demo
+https://github.com/user-attachments/assets/39d3b60a-f8e0-4247-bfe6-8eaf303e8668
